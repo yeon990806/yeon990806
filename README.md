@@ -22,4 +22,4 @@
 
 ## 📫 How to Reach Me
 - 📧 yeon990806@gmail.com
-- 🌐 yeon990806.github.io
+- 🌐 [yeon990806.github.io](yeon990806.github.io)
