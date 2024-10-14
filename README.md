@@ -20,10 +20,6 @@
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yeon990806&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeon990806&layout=compact&theme=radical)
 
-## 🌟 Featured Projects
-- [**Project Name 1**](GitHub Repo URL): Brief description of the project and your role.
-- [**Project Name 2**](GitHub Repo URL): Another important project you contributed to.
-
 ## 📫 How to Reach Me
 - 📧 yeon990806@gmail.com
 - 🌐 yeon990806.github.io
